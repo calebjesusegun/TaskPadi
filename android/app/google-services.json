@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423441238430",
+    "firebase_url": "https://taskpadidb-default-rtdb.firebaseio.com",
+    "project_id": "taskpadidb",
+    "storage_bucket": "taskpadidb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423441238430:android:4231c462e5df8fe7efee8f",
+        "android_client_info": {
+          "package_name": "com.example.task_padi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423441238430-7c6a5vvkmievb1dqp161mevg6fpvfo7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4QEWH3GoWoS_t2DWBgVZ6Vt0C07R5uAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423441238430-7c6a5vvkmievb1dqp161mevg6fpvfo7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423441238430-to0d8dcmiokd6u1rkphim2s3v32dgkr8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskPadi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
